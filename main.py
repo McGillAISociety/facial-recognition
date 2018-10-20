@@ -17,7 +17,7 @@ def main():
 			IP = settings['IP']
 			WEIGHT_DIRECTORY = settings['WEIGHT_DIRECTORY']
 
-			printf("Starting inference with ip "  + IP +  " and weight directory " + WEIGHT_DIRECTORY)
+			print("Starting inference with ip: "  + IP +  " and weight directory: " + WEIGHT_DIRECTORY)
 			
 			start_inference(IP,WEIGHT_DIRECTORY);
 
