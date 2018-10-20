@@ -33,4 +33,4 @@ WEIGHT_DIRECTORY: <INSERT_DIRECTORY_HERE>
 ```
 
 ## Running
-After editing the `settings.yaml` file with your webcam IP and weight directory, simply run `python3 main.py` after ensuring your ip camera is properly streaming.
+After editing the `settings.yaml` file with your webcam IP and weight directory, simply run `python3 main.py` and ensure your ip camera is properly streaming.
