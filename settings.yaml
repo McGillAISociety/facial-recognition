@@ -1,3 +1,8 @@
-IP: <CAMERA IP> 
-WEIGHT_DIRECTORY: <WEIGHT DIRECTORY> 
+# Leave IP blank to default to built in webcam 
+IP: <INSERT_IP_HERE>
 
+# The path to file haarcascade_frontal_face_default.xml
+WEIGHT_DIRECTORY: <INSERT_WEIGHT_DIRECTORY_HERE>
+
+# Toggle preview of processed frame in top left corner of inference 
+FRAME_PREVIEW: ON 
