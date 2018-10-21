@@ -30,6 +30,7 @@ An example template is as follows:
 ```
 IP: <INSERT_CAMERA_IP_HERE>
 WEIGHT_DIRECTORY: <INSERT_DIRECTORY_HERE>
+FRAME_PREVIEW: OFF 
 ```
 
 ## Running
