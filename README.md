@@ -23,6 +23,8 @@ To start the virtual environment, run the following command:
 
 Install dependencies by running  `pip3 install -r requirements.txt`
 
+#### Facenet
+
 #### Settings
 A `settings.yaml` file must be included in the same directory as main.py before running the script. 
 An example template is as follows:
